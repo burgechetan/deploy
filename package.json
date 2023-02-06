@@ -1,0 +1,21 @@
+{
+  "name": "mypackage",
+  "version": "7.0.0",
+  "description": "deploy file",
+  "main": "index.js",
+  "scripts": {
+    "test": "my command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testrepo"
+  },
+  "keywords": [
+    "chetan"
+  ],
+  "author": "chetan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
